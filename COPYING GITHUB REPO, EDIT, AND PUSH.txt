@@ -1,0 +1,20 @@
+## COPYING GITHUB REPOSITORY, EDIT, AND PUSH
+* Change Directory
+	$ cd ~/Desktop/Taylor/Coursera/Data Science
+* Clone Repo
+	$ git clone git@github.com:tgoforth/datasciencecoursera.git
+* Make changes to file and Save
+* Change Directory where changes were made
+	$ cd ~/Desktop/Taylor/Coursera/Data Science/datasciencecoursera
+* List files
+	$ ls
+* Check status
+	$ git status
+* Add changes
+	$ git add filename. (adds designated file) or $ git add . (adds all)
+* Commit changes
+	$ git commit -m "insert comments here"
+* Check Status (optional)
+	$ git status
+* Push to GitHub Repository
+	$ git push origin master
